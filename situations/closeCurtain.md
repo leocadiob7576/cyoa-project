@@ -1,4 +1,4 @@
-# Close the Curtain
+# Close The Curtain
 
 You decide to close the curtains and see a spider on the curtain. Do you smash it or do you call your roommate to come in and kill it?
 
