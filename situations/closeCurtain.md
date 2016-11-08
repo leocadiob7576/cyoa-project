@@ -5,3 +5,5 @@ You decide to close the curtains and see a spider on the curtain. Do you smash i
 [You call your roommate](callRoommate.md)
 
 [You smash the spider](smashSpider.md)
+
+![spider](spider.jpg)
