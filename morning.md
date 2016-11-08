@@ -6,4 +6,4 @@ The window curtains are open and the sun is gleaming through the pane. Also your
 
 [Get up and walk your dog](situations/walkDog.md)
 
-![bedroom](bedroom.jpeg)
+![bedroom](bedroom.png)
