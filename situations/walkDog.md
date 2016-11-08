@@ -8,4 +8,4 @@ You grab the leash and clip it to your dog’s harness. You take him/her out for
 
 [Your Workplace](workplace.md)
 
-[dog](dog.gif)
+![dog](dog.gif)
