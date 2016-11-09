@@ -1,6 +1,6 @@
 # You Smash The Spider
 
-You continue on with life after you smash it. You decide to go and walk your dog.
+You continue on with life after you smash it brutally to a pulp. You decide to go relax and walk your dog.
 
 [Walk your dog](walkDog.md)
 
