@@ -1,6 +1,6 @@
 # You Walk Your Dog
 
-You grab the leash and clip it to your dog’s harness. You take him/her out for a walk. Where do you take him/her?
+You grab the leash and clip it to your dog’s harness. You take your dog out for a walk. Where do you go?
 
 [The Park](park.md)
 
